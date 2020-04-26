@@ -17,11 +17,12 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix
- [ [ORGANIC_PRODUCE = ["Strawberries",
+  [ORGANIC_PRODUCE = ["Strawberries",
   "Potatoes",
   "Grapes",
   "Avocadoes",
-  "Asparagus"]],
+  "Asparagus"]
+  ],
  [ CONVENTIONAL_PRODUCE = [
     "Grapefruit",
   "Pineapple",
@@ -30,8 +31,8 @@ def assembled_matrix
   "Eggplant"]
   ]
   
-  ]
-  ]
+  
+  
   
   # Build an array that contains both of the above arrays
   # This matrix will represent a produce storage room
