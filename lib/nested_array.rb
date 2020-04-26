@@ -24,13 +24,13 @@ def assembled_matrix
   "Avocadoes",
   "Asparagus"]
   ,
- [ CONVENTIONAL_PRODUCE = [
+  CONVENTIONAL_PRODUCE = [
     "Grapefruit",
   "Pineapple",
   "Oranges",
   "Watermelon",
   "Eggplant"]
-  ]
+  
   ]
   
   
