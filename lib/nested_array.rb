@@ -18,14 +18,15 @@ CONVENTIONAL_PRODUCE = [
 
 def assembled_matrix
   
-  ORGANIC_PRODUCE = ["Strawberries",
+  ORGANIC_PRODUCE = [
+  "Strawberries",
   "Potatoes",
   "Grapes",
   "Avocadoes",
   "Asparagus"]
   ,
   CONVENTIONAL_PRODUCE = [
-    "Grapefruit",
+  "Grapefruit",
   "Pineapple",
   "Oranges",
   "Watermelon",
